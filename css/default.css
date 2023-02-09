@@ -1,0 +1,16 @@
+@charset "utf-8";
+body,header,section,footer,div,h1,h2,h3,ul,li,p,address,table,caption,tbody,thead,tfoot,nav,select,
+ol,h4,h5,h6,blockquote,form,fieldset,legend,input,textarea,select,button,main,dl,dt,dd,article,tr,td,th{ margin:0px; padding:0px; }
+ul,ol{ list-style: none;}
+a{ text-decoration:none; color:#333;}
+img{ display:block; border:0px;  }
+em,address,i{ font-style: normal;}
+fieldset,button{ border:0px; }
+button{ border:0px; }
+body{ font-size: 14px; font-family:'Noto Sans KR','Nunito Sans','Times New Roman',sans-serif; color:#333;}
+h1,h2,h3,h4,h5{ font-size:100%; font-weight:normal; }
+hr,legend{ display:none;}
+table{ border-collapse: collapse; border-spacing: 0px;}
+q::before,q::after{ content:"";}
+textarea{ resize: none;}
+input[type=radio]{display: none;}
